@@ -1,2 +1,5 @@
 # selenium_edu
-Stepik Selenium education project
+
+Репозиторий для хранения домашних работ по курсу 
+"Автоматизация тестирования с помощью Selenium и Python" 
+https://stepik.org/course/575
